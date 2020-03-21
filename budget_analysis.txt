@@ -1,0 +1,9 @@
+Financial Summary 
+_________________
+Months:  86
+Total: $38382578
+Average Monthly Change: $-2315.1176470588234
+        Date  Profit/Losses Monthly_Change
+25  Feb-2012  $1,170,593.00  $1,926,159.00
+        Date   Profit/Losses  Monthly_Change
+44  Sep-2013  $-1,196,225.00  $-2,196,167.00
