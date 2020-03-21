@@ -1,3 +1,10 @@
+#Assignment Submission
+
+I completed PyBank in main2.ipynb and PyPoll in python-challenge/PyPoll/pypoll.py
+
+
+
+
 # Python Homework - Py Me Up, Charlie
 
 ## Background
